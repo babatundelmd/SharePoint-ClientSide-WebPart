@@ -3,6 +3,8 @@ logs
 *.log
 npm-debug.log*
 
+package-lock.json
+
 # Dependency directories
 node_modules
 
@@ -30,4 +32,3 @@ obj
 
 # Styles Generated Code
 *.scss.ts
-package-lock.json
