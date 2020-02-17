@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "4270aaf2-66c2-40a4-a75b-a607b40b1734",
+  "id": "6b24375b-c51d-4a6a-911a-4d5fbc189dac",
   "alias": "HelloWorldWebPart",
   "componentType": "WebPart",
 

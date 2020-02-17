@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
     "name": "share-point-web-part-client-side-solution",
-    "id": "4866e671-9a66-4614-8380-6179d147ddb9",
+    "id": "08234dc8-c74e-4730-8895-21fa853ed890",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
